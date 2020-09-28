@@ -8,41 +8,42 @@ sidebar:
 
     # Profile information
     name: Jaswinder Singh
-    tagline: Full Stack Developer
+    tagline: Machine learning Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: jaswinderswork@gmail.com
+    phone: +91 7769987035
+    website: #do not add http://
+    linkedin: https://www.linkedin.com/in/jaswinder-singh-95ab8412b/
+    github: jaswinder6991
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@jassification'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: English
+        level: Full professional proficiency 
+               (IELTS 8 bands - General)
+
+      - idiom: Hindi
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
+      - idiom: Punjabi
+        level: Native
 
     interests:
-      - item: Climbing
+      - item: Digital music production
         link:
 
-      - item: Snowboarding
+      - item: Reading
         link:
 
-      - item: Cooking
+      - item: Strength training
         link:
 
 career-profile:
